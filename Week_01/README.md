@@ -1,1 +1,41 @@
 学习笔记
+
+###刷题记录
+
+<table class="table table-bordered table-striped table-condensed">
+   <tr>
+      <td>题号</td>
+      <td>题目名称</td>
+      <td>考察点</td>
+      <td>难度</td>
+      <td>已刷遍数</td>
+   </tr>
+   <tr>
+      <td>70</td>
+      <td>爬楼梯</td>
+      <td>动态规划</td>
+      <td>简单</td>
+      <td>3</td>
+   </tr>
+   <tr>
+      <td>66</td>
+      <td>加一</td>
+      <td></td>
+      <td>简单</td>
+      <td>2</td>
+   </tr>
+   <tr>
+      <td>11</td>
+      <td>盛最多水的容器</td>
+      <td>双指针</td>
+      <td>中等</td>
+      <td>1</td>
+   </tr>
+   <tr>
+      <td>1</td>
+      <td>两数之和</td>
+      <td></td>
+      <td>简单</td>
+      <td>1</td>
+   </tr>
+</table>

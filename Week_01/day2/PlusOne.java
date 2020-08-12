@@ -1,3 +1,5 @@
+package day2;
+
 public class PlusOne {
 
     public int[] plusOne(int[] digits) {
