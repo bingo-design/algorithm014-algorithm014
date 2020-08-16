@@ -1,5 +1,8 @@
-package day2;
+package other;
 
+/**
+ * @description:  盛最多水的容器 leetcode-11
+ */
 public class MaxArea {
 
     /**

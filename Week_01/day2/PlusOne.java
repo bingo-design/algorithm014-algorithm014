@@ -1,5 +1,8 @@
 package day2;
 
+/**
+ * @description:  加一 leetcode-1
+ */
 public class PlusOne {
 
     public int[] plusOne(int[] digits) {
