@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 
 /**
- * @description: 前K个高频元素 leetcode-345
+ * @description: 前K个高频元素 leetcode-347
  *
  * 给定一个非空的整数数组，返回其中出现频率前 k 高的元素。
  */

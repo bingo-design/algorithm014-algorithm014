@@ -1,4 +1,4 @@
-package day5;
+package day7;
 
 /**
  * @description: 第K个数 leetcode-面试题17.09
@@ -23,5 +23,5 @@ public class GetKthMagicNumber {
         }
         return numList[k-1];
     }
-    
+
 }

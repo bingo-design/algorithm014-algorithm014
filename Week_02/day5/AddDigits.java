@@ -1,7 +1,7 @@
 package day5;
 
 /**
- * @description: leetcode-258
+ * @description: 各位相加 leetcode-258
  *
  * Given a non-negative integer num, repeatedly add all its digits until the result has only one digit.
  */

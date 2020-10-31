@@ -5,9 +5,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 /**
- * @description:
- * @author: jiabin1
- * @time: 2020/8/19 8:09 下午
+ * @description: 最大滑动窗口
  */
 public class MaxSlidingWindow {
 

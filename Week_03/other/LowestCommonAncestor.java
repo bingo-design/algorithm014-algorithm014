@@ -1,4 +1,4 @@
-package day4;
+package other;
 
 /**
  * @description: 二叉树的最近公共祖先 leetcode-剑指offer68-II

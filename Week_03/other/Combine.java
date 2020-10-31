@@ -1,7 +1,34 @@
-package other;/**
- *@description: 
- *@author: jiabin1
- *@time: 2020/8/31 8:54 下午
+package other;
+
+import java.util.LinkedList;
+import java.util.List;
+
+/**
+ * @description: leetcode-77. 组合
  */
 public class Combine {
+
+    List<List<Integer>> output = new LinkedList();
+    int n;
+    int k;
+
+    public List<List<Integer>> combine(int n, int k) {
+        this.n = n;
+        this.k = k;
+        backtrack(1, new LinkedList<Integer>());
+        return output;
+    }
+
+    public void backtrack(int first, LinkedList<Integer> curr) {
+        if (curr.size() == k) {
+            output.add(new LinkedList(curr));
+            return;
+        }
+        for (int i = first; i < n + 1; ++i) {
+            curr.add(i);
+            backtrack(i + 1, curr);
+            curr.removeLast();
+        }
+    }
+
 }
